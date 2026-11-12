@@ -3,7 +3,7 @@
 **Software Engineer @ Unity**, passionate about game development, engine development, performance optimization, and exploring diverse tech domains.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/geunhee-park/)
-[![Blog](https://img.shields.io/badge/Blog-FF5722?style=flat&logo=blogger&logoColor=white)](http://penspanic.github.io)
+[![Blog](https://img.shields.io/badge/Blog-FF5722?style=flat&logo=blogger&logoColor=white)](http://penspanic.com)
 
 ---
 
