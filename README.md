@@ -68,4 +68,4 @@
 - 📍 Seoul, South Korea
 - ✉️ [penspanic@gmail.com](mailto:penspanic@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/geunhee-park/)
-- 🌐 [Blog](http://penspanic.github.io)
+- 🌐 [Blog](http://penspanic.com)
